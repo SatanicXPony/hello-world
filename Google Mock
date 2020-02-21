@@ -7,6 +7,15 @@
   </head>
   <body>
   
-<header>
 <!-- Navbar (top and to the right) -->
-<div class="float-right-links">
+<div class="nav">
+  <ul class="nav justify-content-end>
+    <li class="nav-item">
+      <a class="nav-link" href="#Gmail">Gmail</a>
+   </li>
+   </li class="nav-item">
+    <a class="nav-link" href="#Images>Images</a>
+   </li>
+<!-- need svg icon next -->
+<! button for 'sign-in' -->
+</div>
