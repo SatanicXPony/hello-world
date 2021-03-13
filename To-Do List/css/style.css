@@ -21,6 +21,22 @@ body {
 }
 
 .card header {
-  background: linear-gradient(
-  
+  background: linear-gradient(white, white 32px, green 36px, green 36px);
+  height: 36px;
+}
+
+.card-title {
+ position: relative;
+ left: 10px;
+ top: 8px;
+ font-size: 30px;
+ font-weight: bold;
+}
+.card-text {
+ position: relative;
+ top: 30px;
+ font-size: 18px;
+ margin: 0 20px;
+ line-height: 27px;
+}
   
