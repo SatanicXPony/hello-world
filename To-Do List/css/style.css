@@ -25,6 +25,7 @@ body {
   height: 36px;
 }
 /*.card header-menu for creating list*/  
+/*menu goes on first line, when 'create list' is pressed bullets begin on line*/
 
 .card-title {
 /*want placeholder text so title can be optional*/
