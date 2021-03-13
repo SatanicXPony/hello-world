@@ -1,7 +1,26 @@
 body {
   background-color: #555;
-  display: wrap;
+  display: flex;
   justify-content: center;
   display-flex: wrap;
 }
+
+.card {
+  font-family: Times New Roman, Times, serif;
+  background-color: white;
+ /* gradient for lines going left to right, spanning several rows */
+  background: repeating-linear-gradient(white, white 25px, #9198e5 26px, #9198e5 26px);
+/* positioning of lines in background plane*/ 
+  background-position-y: 36px;
+  height: 300px;
+  width: 500px;
+  padding: 0;
+  margin-top: 50px;
+  margin-right: 15px;
+  
+}
+
+.card header {
+  background: linear-gradient(
+  
   
