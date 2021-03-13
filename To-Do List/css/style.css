@@ -24,15 +24,17 @@ body {
   background: linear-gradient(white, white 32px, green 36px, green 36px);
   height: 36px;
 }
+/*.card header-menu for creating list*/  
 
 .card-title {
+/*want placeholder text so title can be optional*/
  position: relative;
  left: 10px;
  top: 8px;
  font-size: 30px;
  font-weight: bold;
 }
-/*text has to move to next line freely without creating new list item*/
+/*not sure where to add new list item created upon pressing enter on keyboard*/
 .card-text {
  position: relative;
  display: inline-block;
@@ -42,7 +44,7 @@ body {
  line-height: 27px;
 }
   
-/* for javascript*/
+/*for javascript*/
 .done {
   text-decoration: line-through;
 }
